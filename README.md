@@ -1,2 +1,0 @@
-# galaxia
-juego de galaxia 
